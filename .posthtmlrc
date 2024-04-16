@@ -7,12 +7,286 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The residents of 501 W. 143rd Street have been fighting to save their building since 2017, when the owner of the laundromat on the first floor fled and left them with what would become a $3.4 million unpaid water bill."
+          },
+          {
+            "type": "text",
+            "value": "Anita Cheng and her fellow residents live in a Housing Development Fund Corporation cooperative, a unique form of affordable housing in which residents collectively own the property as shareholders. When they were hit with the bill, everyone in the building was responsible for paying it off, and their legal counsel said there was nothing the residents could do: The lease contract was too weak, and the laundromat owner had fled to New Jersey."
+          },
+          {
+            "type": "text",
+            "value": "“In the middle of the night, they ripped out their machines and loaded them into two big trucks and left,” Cheng said."
+          },
+          {
+            "type": "text",
+            "value": "When the building’s board of directors appealed the water debt to the New York City Department of Environmental Protection, they were told that, rather than seeking legal recourse, they should immediately sign onto a payment plan to simply pay off the water debt."
+          },
+          {
+            "type": "text",
+            "value": "“They were like, ‘You’re doing your shareholders a disservice by not signing this payment agreement,’” Cheng said. “And we knew that if we signed that, we would default almost instantly because our building of 38 units that is in foreclosure and is full of mostly low-income people cannot pay 12,000 a month in addition to all our other bills.”"
+          },
+          {
+            "type": "text",
+            "value": "Community Board 9 has the most HDFCs of any community board district in the city, with 220 co-ops within its boundaries. When the co-ops remain solvent, they provide rare opportunities for home ownership to low-income New York residents."
+          },
+          {
+            "type": "text",
+            "value": "HDFCs are so prominent in the CB9 neighborhood that, when Columbia created the West Harlem Community Benefits Agreement, the document contained a provision to create a specific HDFC Resource Center for residents facing challenges like Cheng’s."
+          },
+          {
+            "type": "text",
+            "value": "The CBA was signed in 2009, but the HDFC Resource Center only started operating in January 2023. This programming is in jeopardy, however, because the last payment of Columbia’s promised contribution will be later this year."
+          },
+          {
+            "type": "text",
+            "value": "As owners of HDFC co-ops in West Harlem like 501 W. 143rd Street risk Third Party Transfer in the face of high maintenance costs and little assistance from the city, residents and City Council members are rarely aware of what’s at stake, housing advocates and experts told Spectator."
+          },
+          {
+            "type": "text",
+            "value": "<b>A product of New York’s budget Crisis</b>"
+          },
+          {
+            "type": "text",
+            "value": "HDFCs originated during New York City’s fiscal crisis in the 1970s. Residents were leaving the city en masse, and many apartments were abandoned or neglected by their landlords, so the city seized these properties. But the city was facing its own bankruptcy, and these apartments were an unwanted financial liability—rather than producing property tax revenue for the city, as privately owned buildings do, they were eating up the city’s management budget."
+          },
+          {
+            "type": "text",
+            "value": "It was in the city’s best interest to transfer their ownership to private citizens, so the city tried to sell the foreclosed apartments at auction in the late 70s and early 80s. But because the buildings were so physically neglected, the city was unable to get an offer of more than $213 per unit. The city’s solution was to sell the apartments off to individual residents for just $250 each."
+          },
+          {
+            "type": "text",
+            "value": "“We’re the ones who did the city a favor,” Glory Ann Kerstein, an original HDFC shareholder and housing activist, said. “We took thousands of buildings off the city’s management roles, putting them back on the tax rolls.”"
+          },
+          {
+            "type": "text",
+            "value": "The catch was that the city failed to inform her and other buyers of these dilapidated buildings’ problems, according to Kerstein. Many buildings had collapsed sewage systems, water leakage, or broken broilers, and they all were in need of lead-based paint abatement, which costs $30,000 per unit."
+          },
+          {
+            "type": "text",
+            "value": "“People look at that and go, ‘Wow, only $250,’” Kerstein said. “Don’t mind you’re inheriting a nightmare.”"
+          },
+          {
+            "type": "text",
+            "value": "More recent generations of HDFCs, specifically those incorporated after 2003, were completely renovated by the city before units were sold off to residents."
+          },
+          {
+            "type": "text",
+            "value": "“In 2003 is when [the Department of Housing Preservation and Development] finally was learning from its mistakes and started conversion of these rental foreclosed buildings with 100 percent rehab,” Kerstein said."
+          },
+          {
+            "type": "text",
+            "value": "Kerstein said there is a correlation between HDFCs that were sold without renovation and the foreclosure rate of those buildings. All of the HDFCs listed for foreclosure in 2018 were incorporated before 2003."
+          },
+          {
+            "type": "text",
+            "value": "<b>Third Party Transfer: A ‘misnomer’ for foreclosure</b>"
+          },
+          {
+            "type": "text",
+            "value": "The Asset Management division of the New York City Department of Housing Preservation and Development supervises both the upkeep and finances of HDFCs. The department ensures that HDFCs are properly maintained by their residents; for example, it requires that each building pays for lead-based paint abatement. However, if an HDFC incurs too much debt while paying for these repairs, the property risks being placed on a list of foreclosure candidates."
+          },
+          {
+            "type": "text",
+            "value": "Before 1996, if a property was foreclosed on, it would become owned and managed by the city. This changed under former Mayor Rudy Giuliani, when the City Council passed a bill establishing the Third Party Transfer program. The program transfers the ownership of a property to a private developer after the property is foreclosed on."
+          },
+          {
+            "type": "text",
+            "value": "Every few years, the Department of Housing Preservation and Development releases a list of all buildings throughout the city that are in arrears on municipal debt. The list is sent to the City Council, where council members have the power to remove properties from this list. If a property is not advocated for by a City Council member, it is automatically foreclosed on and placed into Third Party Transfer."
+          },
+          {
+            "type": "text",
+            "value": "Under Third Party Transfer, the developer is responsible for rehabilitating the indebted and neglected property."
+          },
+          {
+            "type": "text",
+            "value": "“Third Party Transfer Program is going to basically bring dollars to the building,” Mike Reed, an HDFC consultant, said."
+          },
+          {
+            "type": "text",
+            "value": "The program finances gut renovations, development, and architectural costs that an HDFC co-op’s board would be unable to finance on their own, according to Reed."
+          },
+          {
+            "type": "text",
+            "value": "However, Kerstein said Third Party Transfer is a “misnomer” for foreclosure and the eventual confiscation of property ownership. Oftentimes, she has found that HDFC residents are unaware that Third Party Transfer implies foreclosure."
+          },
+          {
+            "type": "text",
+            "value": "“Foreclosure raises the alarm bells, but ‘Third Party Transfer’ doesn’t,” Kerstein said. “It’s much more benign sounding, and it’s misleading.”"
+          },
+          {
+            "type": "text",
+            "value": "Residents whose HDFC goes through Third Party Transfer will lose their shares and become renters—if they can afford to pay the rent."
+          },
+          {
+            "type": "text",
+            "value": "“The city within 30 days could transfer these foreclosed properties for one buck to a private nonprofit or for-profit developer that’s on their list,” Kerstein said. “Thereby, the city could wash its hands of being fiscally responsible for foreclosed properties by shunting them over to a developer.”"
+          },
+          {
+            "type": "text",
+            "value": "Reed said that it’s important that residents are fully informed about the Third Party Transfer process."
+          },
+          {
+            "type": "text",
+            "value": "“It is important that they have independent counsel and potentially a consultant that is versed in the conversions or just in, you know, how HPD conducts business,” Reed said. “Now how they pay for that, I don’t know.”"
+          },
+          {
+            "type": "text",
+            "value": "Kerstein became more seriously involved in anti-foreclosure advocacy when she saw the list in 2015 from the Department of Housing Preservation and Development, which included 501 W. 143rd Street. The list was a compilation of all buildings in the city slated for foreclosure, but 50 percent of the properties were HDFCs, despite the fact that they make up only 1 percent of New York City apartment buildings."
+          },
+          {
+            "type": "text",
+            "value": "Kerstein began to organize and make contacts. She soon realized that both the residents of these HDFCs and their City Council members—who have the power to intervene—often had no idea their buildings were even at risk of foreclosure."
+          },
+          {
+            "type": "text",
+            "value": "By talking to City Council members, Kerstein and her fellow organizers got 18 HDFCs removed from the 2018 foreclosure list. As for Cheng and her fellow residents, they got themselves off of the 2018 list by pouring money into their debt until the Department of Housing Preservation and Development no longer flagged their building—a strategy that is untenable for low-income residents, which HDFCs are intended to house."
+          },
+          {
+            "type": "text",
+            "value": "“The city tried to induce tenants to stay in place and take the building off the city’s hands by promising that golden word ‘homeownership,’ which is everyone’s dream … without adequately preparing us for the kind of home that we were taking on,” Kerstein said. “That home had been neglected for decades, had underlying infrastructure problems that would come back to haunt us every year and decades since.”"
+          },
+          {
+            "type": "text",
+            "value": "The Department of Housing Preservation and Development did not respond to multiple requests for comment."
+          },
+          {
+            "type": "text",
+            "value": "<b>The HDFC Resource Center</b>"
+          },
+          {
+            "type": "text",
+            "value": "The HDFC Resource Center is the product of a clause in Columbia’s CBA that earmarks a portion of the $20 million Affordable Housing Fund to specifically create a center “to support and preserve the HDFC community and other properties” by providing “education, advocacy, information, and technical assistance to CD 9’s HDFC cooperatives and other properties.”"
+          },
+          {
+            "type": "text",
+            "value": "In January 2023, the center officially began operations—fourteen years after the CBA was signed."
+          },
+          {
+            "type": "text",
+            "value": "A University spokesperson wrote in a statement to Spectator that the West Harlem Development Corporation used the $20 million Affordable Housing Fund to establish the HDFC Resource Center, and that the funding decisions they make, including those pertaining to the future of the center, are up to the corporation."
+          },
+          {
+            "type": "text",
+            "value": "Vince Morgan, SIPA ’06, the director of the West Harlem Development Corporation’s HDFC Resource Center, sees potential in HDFCs to be a rare form of stable and affordable housing that preserves older buildings."
+          },
+          {
+            "type": "text",
+            "value": "“There’s so many people who put so much time, energy, effort into their collective neighborly commitment and responsibility to the buildings,” Morgan said. “It’s a beautiful thing to see.”"
+          },
+          {
+            "type": "text",
+            "value": "Morgan has worked specifically with 501 W. 143rd Street and other HDFCs in similar positions. He hopes to eventually help the residents find a resolution but admits that he’s unsure how to bring it about because it “just seems too much time has passed.” Furthermore, Morgan states that about 20 percent of the HDFCs don’t have the ability to pay for maintenance that the Department of Housing Preservation and Development says their building needs."
+          },
+          {
+            "type": "text",
+            "value": "“My first year was really spent going out and meeting these buildings face-to-face,” Morgan said. “They’ve sort of been out there fending for themselves.”"
+          },
+          {
+            "type": "text",
+            "value": "HDFC co-ops are the only homeownership housing stock in the nation where the majority of homeowners are people of color, and because turnover rates are so low, HDFCs become what Kerstein calls “naturally-occurring retirement communities.”"
+          },
+          {
+            "type": "text",
+            "value": "“A lot of buildings have a lot of seniors in them on very fixed incomes, and they just can’t bear the cost of another $150, $200 a month on their maintenance fee,” Morgan said. “So it’s like, how do you help them and protect them?”"
+          },
+          {
+            "type": "text",
+            "value": "Now that the center has spent its first year making contact with the community and collecting data on each HDFC co-op’s needs, Morgan wants to strengthen each building’s legal framework. He said the Resource Center could coordinate building maintenance, hold training sessions for board members of HDFC co-ops, and educate residents about the regulatory agreements that each HDFC signs with HPD."
+          },
+          {
+            "type": "text",
+            "value": "“The challenge is really figuring out how to take a finite number of resources, and identify the problems and how to allocate those resources in a way that hopefully, we can leverage other resources to make it a bigger pot,” Morgan said. “You know, when you’re talking to millions of dollars, it … seems like a lot, but it’s not.”"
+          },
+          {
+            "type": "text",
+            "value": "Morgan said the West Harlem Development Corporation, the parent organization for the HDFC Resource Center, is working to create an endowment from the $20 million Affordable Housing Fund so that the center can continue to operate without further contribution from Columbia."
+          },
+          {
+            "type": "text",
+            "value": "“The Affordable Housing funds can be utilized at the discretion of WHDC for a variety of potential affordable housing initiatives,” Morgan said. “The future plans of the HDFC Resource Center are still being evaluated.”"
+          },
+          {
+            "type": "text",
+            "value": "Liz Waytkus, a longtime HDFC resident and co-chair of CB9’s housing, land use, and zoning committee, said the neighborhood’s HDFCs need a local organization like the HDFC Resource Center that can advocate for residents like those of 501 W. 143rd Street."
+          },
+          {
+            "type": "text",
+            "value": "“They are doing their very best to figure it out and not lose their building and not overtax the people who live in it—people who can’t afford millions of dollars and fines and quadrupling penalties,” Waytkus said. “The city forgives very similar penalties to big corporations who own market rate buildings.”"
+          },
+          {
+            "type": "text",
+            "value": "Waytkus said CB9 has partnered with the Resource Center to try to get the word out to residents in the neighborhood, as it’s still fairly unknown as a resource."
+          },
+          {
+            "type": "text",
+            "value": "“It’s a struggle living in Community Board 9 and having the largest private landowner in this neighborhood,” Waytkus said. “Columbia acts as they wish, and it was always a struggle for those of us who live here.”"
+          },
+          {
+            "type": "text",
+            "value": "As University President Minouche Shafik finishes her first year, housing advocates have been pushing the University to facilitate more stable and affordable housing as the neighborhood around Columbia becomes more expensive."
+          },
+          {
+            "type": "text",
+            "value": "“I think it would be amazing to see some sort of tide change of Columbia bending over backwards to be a good neighbor,” Waytkus said."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more:</i><a href=\"https://www.columbiaspectator.com/city-news/2024/01/29/community-leaders-express-optimism-for-future-university-relations-as-shafik-administration-enters-second-semester/\"><i> Community leaders express optimism for future University relations as Shafik administration enters second semester</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Kerstein sees this potential in the HDFC Resource Center if it continues to operate. As of now, however, the center’s future remains unclear."
+          },
+          {
+            "type": "text",
+            "value": "“Vince’s resource center could become a beacon for similar resource centers,” Kerstein said. “Reform is needed on so many levels.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>The fate of 501 W. 143rd Street</b>"
+          },
+          {
+            "type": "text",
+            "value": "The residents of 501 W. 143rd Street are still paying off significant debt from the water bill and broader maintenance costs, and the building is in need of additional expensive repairs. To add to its legal hurdles, the Article XI tax exemption—an exemption from real estate taxes specifically designed for HDFCs—was passed for the building, but the tax exemption was never executed."
+          },
+          {
+            "type": "text",
+            "value": "“HPD has forgotten that its middle name is preservation,” Kerstein said. “HPD has exhibited no interest in trying to salvage and save the HDFCs that continue to flounder.”"
+          },
+          {
+            "type": "text",
+            "value": "Now, the residents, with the endorsement of Council member Shaun Abreu, CC ’n14, have been lobbying the Department of Housing Preservation and Development for financial reparations in order to avoid the possibility of Third Party Transfer."
+          },
+          {
+            "type": "text",
+            "value": "“[The city says] they support affordable housing,” Cheng said. “I wish they would expand that to include support of affordable housing ownership.”"
+          },
+          {
+            "type": "text",
+            "value": "“It’s like we already have all the pieces,” she added. “They just have to be applied in a way that helps people rather than developers, helps homeowners and renters rather than developers.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Grace Kaste can be contacted at </i><a href=\"mailto:grace.kaste@columbiaspectator.com\"><i>grace.kaste@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/Grace_Kaste\"><i>@grace_kaste</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "CB9 boasts the most HDFCs in New York City, but undisclosed maintenance costs threaten residents’ homeownership",
+        "date": "April 15, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/grace-kaste/\"><b>Grace Kaste</b></a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/D26C5F6EURH2BCPIZAUKS7GXWY.jpg",
+        "cover_caption": "Esmeralda Paredes / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/110zot00c5ouCbGGlb9Xeq9zePms6vERGHeBcRcHLrVU/edit"
       }
     }
   }
